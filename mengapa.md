@@ -8,4 +8,5 @@ Dengan adanya pandemi covid-19, sekolah/kuliah dari rumah merupakan sebuah kehar
 Sayangnya, akses Internet terutama di daerah / perkampungan / rural biasanya akan sangat tergantung pada keberadaan operator selular / 3G / 4G. Sayangnya, banyak daerah di Indonesia yang masih kesulitan untuk akses Internet.
 
 
+
 Pada Gambar di atas di perlihatkan kondisi sinyal telkoimsel di seluruh Indonesia yang dapat di akses melalui situs npref.com. Terlihat banyak sekali blank spot terutama di luar jawa. Pada situs npref.com kita dapat mengevaluasi coverage operator selular di Indonesia dengan data yang di kumpulkan oleh npef.com sejak tahun 2019.
